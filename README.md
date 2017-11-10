@@ -9,5 +9,5 @@ https://www.pexels.com
 ## Social Media fonts by Socicon
 http://www.socicon.com/
 
-## Extra CSS from 
-Mobirise
+## Extra CSS Code Snippet from Mobirise
+https://mobirise.com/
